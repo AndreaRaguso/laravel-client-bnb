@@ -1,2 +1,6 @@
-# laravel-client-bnb
-Replica del sito Airbnb con tutte le funzionalità del sito originale (FrontOffice)
+To do list:
+- Rob > check backend , Header, Footer
+- Manu > Apartment Show
+- Samu > Home
+- Franci > Index
+- Andre > + layout NotFound

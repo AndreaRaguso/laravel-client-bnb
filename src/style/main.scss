@@ -1,0 +1,30 @@
+// Import all of Bootstrap's CSS
+@import "node_modules/bootstrap/scss/bootstrap";
+
+// Import variables
+@import './partials/variables.scss';
+body{
+    scroll-behavior: smooth;
+    background-color: $color_light;
+    font-family: 'Poppins', sans-serif;
+}
+
+.b-all {
+    border-radius: 1em;
+  }
+  
+  .b-sx {
+    border-radius: 1em 0 0 1em;
+  }
+  
+  .b-dx {
+    border-radius: 0 1em 1em 0;
+  }
+  
+  .b-dxt {
+    border-radius: 0 1em 0 0;
+  }
+  
+  .b-dxb {
+    border-radius: 0 0 1em 0;
+  }
